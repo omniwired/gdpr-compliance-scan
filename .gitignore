@@ -1,0 +1,8 @@
+#phpStorm
+.idea
+.idea/*
+.idea/
+.idea/**/*
+
+node_modules/
+reports/
